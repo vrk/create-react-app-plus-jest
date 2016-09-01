@@ -1,6 +1,6 @@
 # How to use Jest with `create-react-app`
 
-This repo contains an example of how you can modify the output of [https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html](create-react-app) to use Jest for testing.
+This repo contains an example of how you can modify the output of (https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)[create-react-app] to use Jest for testing.
 
 1. Use create-react-app [https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html](like normal)
 ```
