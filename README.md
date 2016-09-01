@@ -15,10 +15,10 @@ npm install --save-dev jest babel-jest babel-preset-es2015 babel-preset-react re
 
 3. Update your hello-world app with the following to make it match the contents of this repo:
 
-  - [.babelrc](.babelrc): Add this file to the directory that also contains `package.json`
-  - [package.json](package.json): Update the `"test"` line and add the `"jest"` section to the existing `package.json` file
-  - [test/](test/): Add this directory to the directory that also contains `package.json` 
-  - [src/__tests__](src/__tests__): Add this directory `__tests___` to the `src/` directory
+  - [`.babelrc`](.babelrc): Add this file to the directory that also contains `package.json`
+  - [`package.json`](package.json): Update the `"test"` line and add the `"jest"` section to the existing `package.json` file
+  - [`test/`](test/): Add this directory to the directory that also contains `package.json` 
+  - [`src/__tests__`](src/__tests__): Add this directory `__tests__` to the `src/` directory
 
 4. Run tests
 
