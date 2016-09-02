@@ -1,3 +1,6 @@
+*UPDATE Sept 2016:* lol literally a day after I did this, create-react-app updated w/ Jest support, so this isn't necessary for new create-react-app projects. But will keep this up anyway.
+
+
 # How to use Jest with `create-react-app`
 
 This repo contains an example of how you can modify the output of [create-react-app](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) to use Jest for testing.
